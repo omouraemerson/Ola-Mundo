@@ -1,14 +1,10 @@
-#include <stdio.h>
+/* LP_001*/
+
+#include<stdio.h>
 
 int main(){
 
-    int numero=0;
-
-    printf("digite um valor:\n");
-    scanf("%d",&numero);
-    printf("digitou %d\n",numero);
-    
-    
-    
+    printf("Ola mundo!\n");
     return 0;
+    
 }
