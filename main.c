@@ -1,4 +1,4 @@
-/* LP_001*/
+/* LP_001 - Exercício 01*/
 
 #include<stdio.h>
 
